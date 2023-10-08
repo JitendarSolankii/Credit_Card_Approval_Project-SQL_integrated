@@ -1,1 +1,1 @@
-# Credit_Card_Approval_Project-SQL_integrated
+# Credit_Card_Approval_Project
